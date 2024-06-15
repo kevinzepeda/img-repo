@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74.71224975585938 72.91031653500977" width="149.42449951171875" height="145.82063307001954"><symbol id="image-cb63826f751ac464b6587b4e3b5d6da840c2b13b"><image width="100%" height="100%" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGRhdGEtbmFtZT0iTGF5ZXIgMSIgdmlld0JveD0iMCAwIDI0IDI0IiBpZD0ic2VydmVyLW5ldHdvcmstYWx0IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik04LDZoM2ExLDEsMCwwLDAsMC0ySDhBMSwxLDAsMCwwLDgsNlptOCwwYTEsMSwwLDEsMC0xLTFBMSwxLDAsMCwwLDE2LDZabTAsNGExLDEsMCwxLDAsMSwxQTEsMSwwLDAsMCwxNiwxMFptNSw5SDE0LjgyQTMsMywwLDAsMCwxMywxNy4xOFYxNWg0YTMsMywwLDAsMCwzLTNWMTBhMywzLDAsMCwwLS43OC0yQTMsMywwLDAsMCwyMCw2VjRhMywzLDAsMCwwLTMtM0g3QTMsMywwLDAsMCw0LDRWNmEzLDMsMCwwLDAsLjc4LDJBMywzLDAsMCwwLDQsMTB2MmEzLDMsMCwwLDAsMywzaDR2Mi4xOEEzLDMsMCwwLDAsOS4xOCwxOUgzYTEsMSwwLDAsMCwwLDJIOS4xOGEzLDMsMCwwLDAsNS42NCwwSDIxYTEsMSwwLDAsMCwwLTJaTTYsNEExLDEsMCwwLDEsNywzSDE3YTEsMSwwLDAsMSwxLDFWNmExLDEsMCwwLDEtMSwxSDdBMSwxLDAsMCwxLDYsNlptMSw5YTEsMSwwLDAsMS0xLTFWMTBBMSwxLDAsMCwxLDcsOUgxN2ExLDEsMCwwLDEsMSwxdjJhMSwxLDAsMCwxLTEsMVptNSw4YTEsMSwwLDEsMSwxLTFBMSwxLDAsMCwxLDEyLDIxWk0xMSwxMEg4YTEsMSwwLDAsMCwwLDJoM2ExLDEsMCwwLDAsMC0yWiIvPjwvc3ZnPg=="></image></symbol>
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <g transform="translate(18.913746721926145 10) rotate(0 18.087191608789453 18.087191608789)"><use href="#image-cb63826f751ac464b6587b4e3b5d6da840c2b13b" width="36" height="36" opacity="1"></use></g><g transform="translate(10 49.71148651787371) rotate(0 27.356124877929688 6.59941500856803)"><text x="0" y="9.249740076008695" font-family="Virgil, Segoe UI Emoji" font-size="10.559064013708557px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Datalakes</text></g></svg>

@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80.24270127113141 95.82017790671671" width="160.48540254226282" height="191.64035581343342"><symbol id="image-40211ad25053f0e47bfd207300b1f363f52117fb"><image width="100%" height="100%" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgaWQ9ImRhdGFiYXNlIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik04LDE2LjVhMSwxLDAsMSwwLDEsMUExLDEsMCwwLDAsOCwxNi41Wk0xMiwyQzgsMiw0LDMuMzcsNCw2VjE4YzAsMi42Myw0LDQsOCw0czgtMS4zNyw4LTRWNkMyMCwzLjM3LDE2LDIsMTIsMlptNiwxNmMwLC43MS0yLjI4LDItNiwycy02LTEuMjktNi0yVjE0LjczQTEzLjE2LDEzLjE2LDAsMCwwLDEyLDE2YTEzLjE2LDEzLjE2LDAsMCwwLDYtMS4yN1ptMC02YzAsLjcxLTIuMjgsMi02LDJzLTYtMS4yOS02LTJWOC43M0ExMy4xNiwxMy4xNiwwLDAsMCwxMiwxMGExMy4xNiwxMy4xNiwwLDAsMCw2LTEuMjdaTTEyLDhDOC4yOCw4LDYsNi43MSw2LDZzMi4yOC0yLDYtMiw2LDEuMjksNiwyUzE1LjcyLDgsMTIsOFpNOCwxMC41YTEsMSwwLDEsMCwxLDFBMSwxLDAsMCwwLDgsMTAuNVoiLz48L3N2Zz4="></image></symbol>
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <g transform="translate(10.023138055483287 10) rotate(0 30.10978160782406 30.109781607823606)"><use href="#image-40211ad25053f0e47bfd207300b1f363f52117fb" width="60" height="60" opacity="1"></use></g><g transform="translate(10 72.62134788958065) rotate(0 28.943893432617188 6.59941500856803)"><text x="0" y="9.249740076008695" font-family="Virgil, Segoe UI Emoji" font-size="10.559064013708557px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Databases</text></g></svg>

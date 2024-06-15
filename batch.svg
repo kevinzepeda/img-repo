@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59.9219248400841 73.45448138967913" width="119.8438496801682" height="146.90896277935826"><symbol id="image-b3c48382df1ce02dbc73e74d4aaf7b56f5a248c1"><image width="100%" height="100%" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGRhdGEtbmFtZT0iTGF5ZXIgMSIgdmlld0JveD0iMCAwIDI0IDI0IiBpZD0iZm9sZGVyLW5ldHdvcmsiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTIxLDE4SDE0LjgyQTMsMywwLDAsMCwxMywxNi4xOFYxNGgzLjY3QTIuMzQsMi4zNCwwLDAsMCwxOSwxMS42N1Y2LjMzQTIuMzQsMi4zNCwwLDAsMCwxNi42Nyw0aC00bC0uMTMtLjQxQTIuMzQsMi4zNCwwLDAsMCwxMC4zNywyaC0zQTIuMzQsMi4zNCwwLDAsMCw1LDQuMzN2Ny4zNEEyLjM0LDIuMzQsMCwwLDAsNy4zMywxNEgxMXYyLjE4QTMsMywwLDAsMCw5LjE4LDE4SDNhMSwxLDAsMCwwLDAsMkg5LjE4YTMsMywwLDAsMCw1LjY0LDBIMjFhMSwxLDAsMCwwLDAtMlpNNy4zMywxMkEuMzMuMzMsMCwwLDEsNywxMS42N1Y0LjMzQS4zMy4zMywwLDAsMSw3LjMzLDRoM2EuMzMuMzMsMCwwLDEsLjMyLjIzbC4zNiwxLjA5QTEsMSwwLDAsMCwxMiw2aDQuNjdhLjMzLjMzLDAsMCwxLC4zMy4zM3Y1LjM0YS4zMy4zMywwLDAsMS0uMzMuMzNaTTEyLDIwYTEsMSwwLDEsMSwxLTFBMSwxLDAsMCwxLDEyLDIwWiIvPjwvc3ZnPg=="></image></symbol>
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <g transform="translate(10 10) rotate(0 19.96096242004205 19.96096242004205)"><use href="#image-b3c48382df1ce02dbc73e74d4aaf7b56f5a248c1" width="40" height="40" opacity="1"></use></g><g transform="translate(15.181899687899204 50.25565137254307) rotate(0 15.587608337402344 6.59941500856803)"><text x="0" y="9.249740076008695" font-family="Virgil, Segoe UI Emoji" font-size="10.559064013708557px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Batch</text></g></svg>
