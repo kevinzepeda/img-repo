@@ -1,1 +1,0 @@
-#Flopert Service IconSet
